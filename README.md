@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AtharvaThaware
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Information Technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Frontend Projects
 
 <!---
 AtharvaThaware/AtharvaThaware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
